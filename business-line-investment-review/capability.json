@@ -1,0 +1,48 @@
+{
+  "id": "business-line-investment-review",
+  "name": "Business line investment review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "For leadership with several business lines: each line set side by side on one basis (fit with strategy, finance-reviewed results, shared resources, open questions) and placed as invest, investigate or reduce commitment, for the leadership team to discuss and decide.",
+  "directory": "https://fullypowered.ai/capabilities/business-line-investment-review/",
+  "primary_function": "functions/leadership",
+  "functions": [
+    "functions/leadership",
+    "functions/finance-and-accounting"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/manufacturing",
+    "industries/consumer-brands"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling",
+    "situations/private-equity-and-portfolios"
+  ],
+  "related": [
+    "annual-operating-budget",
+    "board-meeting-pack",
+    "decision-log"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of the work of comparing business lines, with the fixed inputs, the fit readings, the placement rules and the stop conditions written for this template."
+    }
+  ]
+}

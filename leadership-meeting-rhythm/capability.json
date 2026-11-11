@@ -1,0 +1,58 @@
+{
+  "id": "leadership-meeting-rhythm",
+  "name": "Leadership meeting rhythm",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Your chief executive gets a proposed calendar of leadership forums and written reports, built from today's meetings and the decisions left waiting: each forum with its purpose, inputs, attendees, frequency and one decision owner, and the hours it gives back. The chief executive chooses; no calendar is changed.",
+  "directory": "https://fullypowered.ai/capabilities/leadership-meeting-rhythm/",
+  "primary_function": "functions/leadership",
+  "functions": [
+    "functions/leadership",
+    "functions/executive-and-office-support"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/construction",
+    "industries/manufacturing",
+    "industries/software-technology"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "meeting-agenda-notes-and-follow-ups",
+    "decision-log",
+    "board-meeting-pack"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The meeting-list and waiting-decisions exports with a stop on any header mismatch, the yearly hours count against the chief executive's ceiling, the findings and the order in which one proposal per meeting is chosen, the overlap and few-decisions rules, the routing of waiting decisions with days waiting and an overdue limit, never choosing a decision owner, the calendar changes listed for a person to make, and the acceptance tests."
+    },
+    {
+      "kind": "third-party",
+      "repository": "beingsmit/technical-product-gtm",
+      "commit": "ef1aa7dd8564b4d824021cf152468ece278e1513",
+      "path": "skills/operating-cadence/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Telling meetings apart by purpose, frequency and who decides; moving a meeting that settles nothing into writing or rebuilding it around its decisions with fewer people; one named decider per forum; letting the owner of an undoable decision act without a meeting; a leadership forum every second week with updates read in advance; and replacing meetings rather than adding them as the company grows.",
+      "text_reused": false,
+      "notice": "notices/beingsmit-technical-product-gtm-LICENSE.txt"
+    }
+  ]
+}

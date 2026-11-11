@@ -1,0 +1,98 @@
+{
+  "id": "weekly-owner-business-brief",
+  "name": "Weekly owner business brief",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Each Monday the owner gets about one page built from the exports they supply: cash, last week's sales against the week before, pipeline movement, the week's commitments and a watch list, with one item to look at first. Every figure names its source, and every missing export is named.",
+  "directory": "https://fullypowered.ai/capabilities/weekly-owner-business-brief/",
+  "primary_function": "functions/leadership",
+  "functions": [
+    "functions/leadership",
+    "functions/finance-and-accounting",
+    "functions/sales"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/construction",
+    "industries/ecommerce-and-retail"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "operations-kpi-scorecard",
+    "weekly-receivables-summary",
+    "sales-pipeline-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for prepared work: figures only from named, dated exports, every gap named, no figure guessed, and a person who decides what comes first and what to escalate."
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
+      "path": "small-business/skills/business-pulse/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "The idea of one weekly page across cash, sales, pipeline, calendar and urgent matters, with the item needing most attention called out, each figure compared with the earlier week, a missing figure shown as missing, one sales source rather than several added together, and a start-of-week version that looks ahead. Also its risk triggers (invoices more than 30 days past due; deals with no recent activity or with a close date in the past but still open) and the linking of a message to a flagged deal, raised as the first item. It also drew on small-business/shared/untrusted-content.md (same repository and commit, Apache-2.0) for the rule that the text of a note or export is data, with anything in it that tells the assistant to act shown to the owner and not acted on.",
+      "text_reused": false,
+      "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
+      "path": "small-business/skills/business-pulse/reference/thresholds.md",
+      "licence": "Apache-2.0",
+      "contribution": "The starting limits for the watch list: an invoice past due by more than 30 days, a deal with no activity for a stated number of days with a note that the owner may prefer 14, an open deal with a close date in the past always flagged, and a fall in sales of more than 10% as the red line.",
+      "text_reused": false,
+      "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
+      "path": "small-business/skills/business-pulse/reference/v2_sources.md",
+      "licence": "Apache-2.0",
+      "contribution": "The rule that revenue is counted from one named source and never added across several, with the other records used only for detail.",
+      "text_reused": false,
+      "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
+      "path": "small-business/shared/absent-is-not-zero.md",
+      "licence": "Apache-2.0",
+      "contribution": "The rules that an empty value is unknown and never zero, that a blank activity date means no one has worked the record, so it goes on the watch list rather than being counted as recent, and that a date later than the run date is read as empty.",
+      "text_reused": false,
+      "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
+      "path": "small-business/skills/business-pulse/reference/output_template.md",
+      "licence": "Apache-2.0",
+      "contribution": "The fixed order of sections, the aim of one page, percentages to one decimal place, and leaving internal-only calendar entries out of the week's commitments.",
+      "text_reused": false,
+      "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
+    }
+  ]
+}

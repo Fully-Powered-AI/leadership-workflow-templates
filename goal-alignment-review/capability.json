@@ -1,0 +1,79 @@
+{
+  "id": "goal-alignment-review",
+  "name": "Goal alignment review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before next period's goals are set, the chief executive sees every team goal mapped to the company priority it serves: goals with no company parent, goals that pull against each other, priorities nobody owns, and the questions for each owner. It judges goals, never people.",
+  "directory": "https://fullypowered.ai/capabilities/goal-alignment-review/",
+  "primary_function": "functions/leadership",
+  "functions": [
+    "functions/leadership",
+    "functions/operations-and-process-improvement"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/manufacturing",
+    "industries/logistics-and-trade"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/private-equity-and-portfolios",
+    "situations/acquisitions-and-integration"
+  ],
+  "related": [
+    "annual-operating-budget",
+    "headcount-plan",
+    "culture-health-check"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for prepared leadership work: fixed export headers with a stop on any mismatch, every link and flag traced to the goals' own measures and wording, one question per goal for its owner, the chief executive deciding, owners named by role, goals judged and never people, and nothing sent by the assistant."
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "c-level-advisor/skills/strategic-alignment/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Tracing each team goal to the company goal above it and asking how closely they connect; looking for team goals with nothing above them, goals in different teams that work against each other, and company goals no team has taken on; a named owner for every company goal.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "c-level-advisor/skills/strategic-alignment/references/alignment-playbook.md",
+      "licence": "MIT",
+      "contribution": "A written list of what the company has decided not to do; room for a few goals teams set for themselves; naming a contributing owner when a goal is shared with a second team; checking drafted goals shortly before the period opens and again once they are final.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "c-level-advisor/skills/strategic-alignment/scripts/alignment_checker.py",
+      "licence": "MIT",
+      "contribution": "Read as text, never run: keeping tensions already raised apart from possible ones, catching a goal that points to a company goal missing from the current list, and noticing a company goal that draws many teams while others go short.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    }
+  ]
+}

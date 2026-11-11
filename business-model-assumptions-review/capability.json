@@ -1,0 +1,59 @@
+{
+  "id": "business-model-assumptions-review",
+  "name": "Business model assumptions review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before you commit money to a new or revised business model, see it block by block with every claim marked evidenced or assumed, the riskiest assumptions ranked, and the cheapest test for each. You choose what to test; no projection or valuation is made.",
+  "directory": "https://fullypowered.ai/capabilities/business-model-assumptions-review/",
+  "primary_function": "functions/leadership",
+  "functions": [
+    "functions/leadership",
+    "functions/product-management"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/ecommerce-and-retail",
+    "industries/consumer-brands"
+  ],
+  "situations": [
+    "situations/startups-and-new-ventures",
+    "situations/new-business-lines",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "offer-review",
+    "premortem-before-a-decision",
+    "workflow-fit-check"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own design: six blocks, claim-by-claim marking, five evidence kinds of which only paid, used and measured count, dated evidence with an age limit, a two-scale score and fixed tie order, a cost ladder of tests, pass and fail lines set by the sponsor, and a sponsor's choice line."
+    },
+    {
+      "kind": "third-party",
+      "repository": "panaversity/agentfactory-business-plugins",
+      "commit": "4497a99e149ffe2447eeaeed1d7706cd91c2edfb",
+      "path": "innovation/skills/canvas/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "The idea of laying a business model out in blocks and marking, for each, how much real evidence stands behind it, with payment or continued use as the bar for calling something proven.",
+      "text_reused": false,
+      "notice": "notices/panaversity-agentfactory-business-plugins-LICENSE.txt"
+    }
+  ]
+}

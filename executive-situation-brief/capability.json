@@ -1,0 +1,59 @@
+{
+  "id": "executive-situation-brief",
+  "name": "Executive situation brief",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before a conversation that matters, with a key partner, a major customer or a co-founder, the executive gets one brief from the records they approve: the short version in a sentence, what is already decided and promised, what each side has said, the question to settle and the choices open. The executive decides.",
+  "directory": "https://fullypowered.ai/capabilities/executive-situation-brief/",
+  "primary_function": "functions/leadership",
+  "functions": [
+    "functions/leadership",
+    "functions/executive-and-office-support"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/manufacturing",
+    "industries/consumer-brands"
+  ],
+  "situations": [
+    "situations/startups-and-new-ventures",
+    "situations/growth-and-scaling",
+    "situations/acquisitions-and-integration"
+  ],
+  "related": [
+    "decision-log",
+    "board-meeting-pack",
+    "premortem-before-a-decision"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for prepared work: only the records the executive approves, every line traced to its record, both versions shown where records disagree, no choice made or ranked for the executive, nothing said about what a person is like, and a person who decides and sends."
+    },
+    {
+      "kind": "third-party",
+      "repository": "panaversity/agentfactory-business-plugins",
+      "commit": "4497a99e149ffe2447eeaeed1d7706cd91c2edfb",
+      "path": "agentic-office/skills/executive-brief/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "One brief prepared before a meeting or a decision, opening on a single sentence about where things stand, then the background with the decisions taken so far, the single matter to settle, the options and where each person involved stands.",
+      "text_reused": false,
+      "notice": "notices/panaversity-agentfactory-business-plugins-LICENSE.txt"
+    }
+  ]
+}
