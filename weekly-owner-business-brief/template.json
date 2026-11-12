@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Each Monday the owner gets about one page built from the exports they supply: cash, last week's sales against the week before, pipeline movement, the week's commitments and a watch list, with one item to look at first. Every figure names its source, and every missing export is named.",
-  "directory": "https://fullypowered.ai/workflow templates/weekly-owner-business-brief/",
+  "directory": "https://fullypowered.ai/workflows/weekly-owner-business-brief/",
   "primary_function": "functions/leadership",
   "functions": [
     "functions/leadership",

@@ -2,7 +2,7 @@
 
 Your chief executive gets a proposed calendar of leadership forums and written reports, built from today's meetings and the decisions left waiting: each forum with its purpose, inputs, attendees, frequency and one decision owner, and the hours it gives back. The chief executive chooses; no calendar is changed.
 
-*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/leadership-meeting-rhythm/)*
+*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/leadership-meeting-rhythm/)*
 
 ## The outcome
 
@@ -83,9 +83,9 @@ Testing in your environment means running it on your current meeting list with a
 
 ## Related workflow templates
 
-- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflow templates/meeting-agenda-notes-and-follow-ups/)
-- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
-- [Board meeting pack](https://fullypowered.ai/workflow templates/board-meeting-pack/)
+- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/)
+- [Board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/)
 
 ## Make it yours
 

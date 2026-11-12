@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Your chief executive gets a proposed calendar of leadership forums and written reports, built from today's meetings and the decisions left waiting: each forum with its purpose, inputs, attendees, frequency and one decision owner, and the hours it gives back. The chief executive chooses; no calendar is changed.",
-  "directory": "https://fullypowered.ai/workflow templates/leadership-meeting-rhythm/",
+  "directory": "https://fullypowered.ai/workflows/leadership-meeting-rhythm/",
   "primary_function": "functions/leadership",
   "functions": [
     "functions/leadership",

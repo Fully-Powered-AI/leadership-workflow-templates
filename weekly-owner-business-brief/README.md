@@ -2,7 +2,7 @@
 
 Each Monday the owner gets about one page built from the exports they supply: cash, last week's sales against the week before, pipeline movement, the week's commitments and a watch list, with one item to look at first. Every figure names its source, and every missing export is named.
 
-*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/weekly-owner-business-brief/)*
+*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/weekly-owner-business-brief/)*
 
 ## The outcome
 
@@ -80,9 +80,9 @@ Testing in your environment means running it on two or three past weeks the owne
 
 ## Related workflow templates
 
-- [Operations KPI scorecard](https://fullypowered.ai/workflow templates/operations-kpi-scorecard/)
-- [Weekly receivables summary](https://fullypowered.ai/workflow templates/weekly-receivables-summary/)
-- [Sales pipeline review](https://fullypowered.ai/workflow templates/sales-pipeline-review/)
+- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/)
+- [Weekly receivables summary](https://fullypowered.ai/workflows/weekly-receivables-summary/)
+- [Sales pipeline review](https://fullypowered.ai/workflows/sales-pipeline-review/)
 
 ## Make it yours
 

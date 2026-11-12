@@ -2,7 +2,7 @@
 
 Before you commit money to a new or revised business model, see it block by block with every claim marked evidenced or assumed, the riskiest assumptions ranked, and the cheapest test for each. You choose what to test; no projection or valuation is made.
 
-*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/business-model-assumptions-review/)*
+*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/business-model-assumptions-review/)*
 
 ## The outcome
 
@@ -79,9 +79,9 @@ Testing in your environment means running it on a model you already know the out
 
 ## Related workflow templates
 
-- [Offer review](https://fullypowered.ai/workflow templates/offer-review/)
-- [Premortem before a decision](https://fullypowered.ai/workflow templates/premortem-before-a-decision/)
-- [Workflow fit check: is this piece of work ready for AI?](https://fullypowered.ai/workflow templates/workflow-fit-check/)
+- [Offer review](https://fullypowered.ai/workflows/offer-review/)
+- [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/)
+- [Workflow fit check: is this piece of work ready for AI?](https://fullypowered.ai/workflows/workflow-fit-check/)
 
 ## Make it yours
 

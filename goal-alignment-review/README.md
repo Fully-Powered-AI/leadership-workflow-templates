@@ -2,7 +2,7 @@
 
 Before next period's goals are set, the chief executive sees every team goal mapped to the company priority it serves: goals with no company parent, goals that pull against each other, priorities nobody owns, and the questions for each owner. It judges goals, never people.
 
-*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/goal-alignment-review/)*
+*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/goal-alignment-review/)*
 
 ## The outcome
 
@@ -87,9 +87,9 @@ Testing in your environment means running it on last period's drafted goals, whi
 
 ## Related workflow templates
 
-- [Annual operating budget](https://fullypowered.ai/workflow templates/annual-operating-budget/)
-- [Headcount plan](https://fullypowered.ai/workflow templates/headcount-plan/)
-- [Culture health check](https://fullypowered.ai/workflow templates/culture-health-check/)
+- [Annual operating budget](https://fullypowered.ai/workflows/annual-operating-budget/)
+- [Headcount plan](https://fullypowered.ai/workflows/headcount-plan/)
+- [Culture health check](https://fullypowered.ai/workflows/culture-health-check/)
 
 ## Make it yours
 

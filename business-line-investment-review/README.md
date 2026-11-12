@@ -2,7 +2,7 @@
 
 For leadership with several business lines: each line set side by side on one basis (fit with strategy, finance-reviewed results, shared resources, open questions) and placed as invest, investigate or reduce commitment, for the leadership team to discuss and decide.
 
-*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/business-line-investment-review/)*
+*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/business-line-investment-review/)*
 
 ## The outcome
 
@@ -80,9 +80,9 @@ Testing in your environment means running it on a past review your leadership te
 
 ## Related workflow templates
 
-- [Annual operating budget](https://fullypowered.ai/workflow templates/annual-operating-budget/)
-- [Board meeting pack](https://fullypowered.ai/workflow templates/board-meeting-pack/)
-- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
+- [Annual operating budget](https://fullypowered.ai/workflows/annual-operating-budget/)
+- [Board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/)
 
 ## Make it yours
 

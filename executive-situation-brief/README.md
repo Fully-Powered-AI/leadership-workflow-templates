@@ -2,7 +2,7 @@
 
 Before a conversation that matters, with a key partner, a major customer or a co-founder, the executive gets one brief from the records they approve: the short version in a sentence, what is already decided and promised, what each side has said, the question to settle and the choices open. The executive decides.
 
-*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/executive-situation-brief/)*
+*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/executive-situation-brief/)*
 
 ## The outcome
 
@@ -89,9 +89,9 @@ Testing in your environment means running it on two or three past conversations 
 
 ## Related workflow templates
 
-- [Decision log](https://fullypowered.ai/workflow templates/decision-log/)
-- [Board meeting pack](https://fullypowered.ai/workflow templates/board-meeting-pack/)
-- [Premortem before a decision](https://fullypowered.ai/workflow templates/premortem-before-a-decision/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/)
+- [Board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/)
+- [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/)
 
 ## Make it yours
 

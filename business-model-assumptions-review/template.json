@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before you commit money to a new or revised business model, see it block by block with every claim marked evidenced or assumed, the riskiest assumptions ranked, and the cheapest test for each. You choose what to test; no projection or valuation is made.",
-  "directory": "https://fullypowered.ai/workflow templates/business-model-assumptions-review/",
+  "directory": "https://fullypowered.ai/workflows/business-model-assumptions-review/",
   "primary_function": "functions/leadership",
   "functions": [
     "functions/leadership",

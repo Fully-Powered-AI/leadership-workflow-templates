@@ -9,7 +9,7 @@
       "version": "0.1.0",
       "summary": "For leadership with several business lines: each line set side by side on one basis (fit with strategy, finance-reviewed results, shared resources, open questions) and placed as invest, investigate or reduce commitment, for the leadership team to discuss and decide.",
       "path": "business-line-investment-review/",
-      "directory": "https://fullypowered.ai/workflow templates/business-line-investment-review/"
+      "directory": "https://fullypowered.ai/workflows/business-line-investment-review/"
     },
     {
       "id": "business-model-assumptions-review",
@@ -17,7 +17,7 @@
       "version": "0.1.0",
       "summary": "Before you commit money to a new or revised business model, see it block by block with every claim marked evidenced or assumed, the riskiest assumptions ranked, and the cheapest test for each. You choose what to test; no projection or valuation is made.",
       "path": "business-model-assumptions-review/",
-      "directory": "https://fullypowered.ai/workflow templates/business-model-assumptions-review/"
+      "directory": "https://fullypowered.ai/workflows/business-model-assumptions-review/"
     },
     {
       "id": "executive-situation-brief",
@@ -25,7 +25,7 @@
       "version": "0.1.0",
       "summary": "Before a conversation that matters, with a key partner, a major customer or a co-founder, the executive gets one brief from the records they approve: the short version in a sentence, what is already decided and promised, what each side has said, the question to settle and the choices open. The executive decides.",
       "path": "executive-situation-brief/",
-      "directory": "https://fullypowered.ai/workflow templates/executive-situation-brief/"
+      "directory": "https://fullypowered.ai/workflows/executive-situation-brief/"
     },
     {
       "id": "goal-alignment-review",
@@ -33,7 +33,7 @@
       "version": "0.1.0",
       "summary": "Before next period's goals are set, the chief executive sees every team goal mapped to the company priority it serves: goals with no company parent, goals that pull against each other, priorities nobody owns, and the questions for each owner. It judges goals, never people.",
       "path": "goal-alignment-review/",
-      "directory": "https://fullypowered.ai/workflow templates/goal-alignment-review/"
+      "directory": "https://fullypowered.ai/workflows/goal-alignment-review/"
     },
     {
       "id": "leadership-meeting-rhythm",
@@ -41,7 +41,7 @@
       "version": "0.1.0",
       "summary": "Your chief executive gets a proposed calendar of leadership forums and written reports, built from today's meetings and the decisions left waiting: each forum with its purpose, inputs, attendees, frequency and one decision owner, and the hours it gives back. The chief executive chooses; no calendar is changed.",
       "path": "leadership-meeting-rhythm/",
-      "directory": "https://fullypowered.ai/workflow templates/leadership-meeting-rhythm/"
+      "directory": "https://fullypowered.ai/workflows/leadership-meeting-rhythm/"
     },
     {
       "id": "weekly-owner-business-brief",
@@ -49,7 +49,7 @@
       "version": "0.1.0",
       "summary": "Each Monday the owner gets about one page built from the exports they supply: cash, last week's sales against the week before, pipeline movement, the week's commitments and a watch list, with one item to look at first. Every figure names its source, and every missing export is named.",
       "path": "weekly-owner-business-brief/",
-      "directory": "https://fullypowered.ai/workflow templates/weekly-owner-business-brief/"
+      "directory": "https://fullypowered.ai/workflows/weekly-owner-business-brief/"
     }
   ]
 }
