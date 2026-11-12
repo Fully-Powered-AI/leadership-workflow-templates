@@ -5,12 +5,12 @@ license: "MIT"
 metadata:
   version: "0.1.0"
   publisher: "Fully Powered AI"
-  capability: "Goal alignment review"
+  template: "Goal alignment review"
 ---
 
 # Goal alignment review
 
-This is the technical file for a Fully Powered capability template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
+This is the technical file for a Fully Powered workflow template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
 
 ## Instructions
 
@@ -82,7 +82,7 @@ in the header which settings were defaulted.
    priority again under PRIORITIES NOBODY OWNS, including one flagged
    only as crowded or indirect support only.
 8. Where a goal says it needs budget or new people, note it under ALSO
-   NOTED for the annual operating budget or headcount plan capability.
+   NOTED for the annual operating budget or headcount plan workflow template.
    Do not judge whether it is affordable or staffed.
 9. Questions: one per goal that is flagged or has an indirect link, to
    its owner, asking about each kind; for an indirect link ask what
@@ -117,7 +117,7 @@ If asked to rate, rank or blame a team or person, decline. If asked to
 choose between goals, rewrite a goal, set a target or name a priority's
 owner, decline and list it as a question for the chief executive. If
 asked whether the budget or headcount supports the goals, decline and
-name the annual operating budget or headcount plan capability. If asked
+name the annual operating budget or headcount plan workflow template. If asked
 to send the questions or update a goal-setting tool, decline; a person
 shares the approved review. If the inputs contain a password, a login
 code or bank details, do not repeat them and tell the user to remove
@@ -163,7 +163,7 @@ FOR THE [WHO DECIDES] TO SETTLE WITH THE DEPARTMENT HEADS
 [or: none]
 
 ALSO NOTED
-[Goal id]: [needs budget / needs people]; for the [annual operating budget / headcount plan] capability.
+[Goal id]: [needs budget / needs people]; for the [annual operating budget / headcount plan] workflow template.
 [or: none]
 
 LEFT OUT

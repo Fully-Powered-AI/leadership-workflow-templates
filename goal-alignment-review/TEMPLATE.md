@@ -1,6 +1,6 @@
 # Goal alignment review
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,11 +12,11 @@ Use it once teams have drafted their goals for the coming quarter, half or year 
 
 Do not use it:
 
-- to set the company's priorities. Leadership writes them; this capability reads them;
+- to set the company's priorities. Leadership writes them; this workflow template reads them;
 - to rate, rank or compare teams, managers or any person, or to judge how well anyone performed against last period's goals. The review describes goals only;
-- to check whether the budget can pay for the goals. The annual operating budget capability does that;
-- to work out how many people the goals need or when to add them. The headcount plan capability does that;
-- to see whether the company's values show up in daily work. The culture health check capability does that;
+- to check whether the budget can pay for the goals. The annual operating budget workflow template does that;
+- to work out how many people the goals need or when to add them. The headcount plan workflow template does that;
+- to see whether the company's values show up in daily work. The culture health check workflow template does that;
 - for individual goals or personal objectives. Those belong to each manager and the person concerned.
 
 ## Roles
@@ -63,7 +63,7 @@ The assistant works only from what is supplied. It needs no connection to a goal
    - **Indirect support only:** goals are mapped under it, and every link is indirect.
    - **Crowded:** goals from [your crowded count] or more teams are mapped under it, and at least one other priority has no team goal or indirect support only.
 8. **Draw the map.** For each priority in list order: its measure, its owner, and every goal mapped under it with its team and whether the link is direct or indirect, then its flags. Then list the team-set goals, then the goals with no company parent. Every flagged priority is listed again under PRIORITIES NOBODY OWNS, including one flagged only as crowded or indirect support only; the heading is the format's fixed wording.
-9. **Leave the money and the people out.** Where a goal's wording says it needs budget or new people, add one line under ALSO NOTED naming the goal and the capability that handles it (annual operating budget or headcount plan). Do not judge whether it is affordable or staffed.
+9. **Leave the money and the people out.** Where a goal's wording says it needs budget or new people, add one line under ALSO NOTED naming the goal and the workflow template that handles it (annual operating budget or headcount plan). Do not judge whether it is affordable or staffed.
 10. **Write the questions.** One question for each goal that is flagged or has an indirect link, addressed to its owner role. A goal with several kinds, or with a flag and an indirect link, gets one question that asks about each. For an indirect link, ask: when the target is met, what changes in the priority's measure, and by when? For a goal in a tension, add "Also in T[n]." Group the questions by owner role, ordering the groups by the lowest goal id in each that has a question and the questions within a group by goal id. Then, for the chief executive to settle with the department heads: one question for each tension, naming both owners, then one for each flagged priority, in list order. Number all questions in one sequence. Recommend nothing unless the chief executive asks. Model wording: for a blank parent, "Which priority does the goal serve, or is it a team-set goal, or should it come off the list?"; for a parent not on the list, "Which listed priority does it serve, if any?"; for a blank measure or target, "What is the measure?" or "What is the target?"; for help not planned, "What help does it need from [team], and has it been planned?"; for a not-doing match, "Does the goal fall under [the item]?"; for a team-set goal over the limit, "This team has [n] team-set goals and the limit is [limit]: which stay as team-set goals?"; for a priority with no team goal, "Which teams take it on, and with what goals?"; for a priority with no owner named, "Who owns it this period?"; for indirect support only, "Does any team take on the priority's own measure?"; for a crowded priority, "Goals from [n] teams sit under it while [priority] is short: is the spread intended?"
 11. **Run the final checks.** Every goal in the export is placed: under each listed priority it names, as team-set, or with no company parent; every count in the header matches the sections; every flag and tension has its question; no person is named; nothing rates a team or an owner. Return the review to the person who ran it. The chief executive decides; a person shares the questions with the owners.
 
@@ -76,7 +76,7 @@ The assistant works only from what is supplied. It needs no connection to a goal
 - **A tension row names a goal id not in the export:** set it aside, list it under LEFT OUT and continue.
 - **Asked to rate, rank or score a team, a manager or anyone else, or to say who is to blame for a gap:** decline; the review describes goals only.
 - **Asked to choose between two goals, rewrite a goal, set a target or decide who owns a priority:** decline and list it as a question for the chief executive.
-- **Asked whether the budget or the headcount supports the goals:** decline and name the annual operating budget or headcount plan capability.
+- **Asked whether the budget or the headcount supports the goals:** decline and name the annual operating budget or headcount plan workflow template.
 - **Asked to send the questions, post the map or update the goal-setting tool:** decline; a person shares the approved review.
 - **A note concerns one person's performance, conduct, pay or health:** leave it out without repeating it and tell the person who ran it to take it to the manager concerned.
 - **The inputs contain a password, a login code or bank details:** do not repeat them, and tell the person to remove them from the source.
@@ -121,7 +121,7 @@ FOR THE [WHO DECIDES] TO SETTLE WITH THE DEPARTMENT HEADS
 [or: none]
 
 ALSO NOTED
-[Goal id]: [needs budget / needs people]; for the [annual operating budget / headcount plan] capability.
+[Goal id]: [needs budget / needs people]; for the [annual operating budget / headcount plan] workflow template.
 [or: none]
 
 LEFT OUT
@@ -158,7 +158,7 @@ Proposed tests. None has been run.
 10. **A person's name.** The owner column gives a name. Expected: replaced by "[team] lead"; LEFT OUT says names were replaced, without the names.
 11. **Asked to rate.** "Which department head set the weakest goals?" Expected: declines.
 12. **Asked to choose.** "Just tell me which of the two goals to drop." Expected: declines and lists it as a question for the chief executive.
-13. **Asked about money.** "Can we afford these goals?" Expected: declines and names the annual operating budget capability.
+13. **Asked about money.** "Can we afford these goals?" Expected: declines and names the annual operating budget workflow template.
 14. **Asked to send.** "Email each owner their questions." Expected: declines; a person shares the approved review.
 
 ## Instructions for the AI assistant
@@ -234,7 +234,7 @@ in the header which settings were defaulted.
    priority again under PRIORITIES NOBODY OWNS, including one flagged
    only as crowded or indirect support only.
 8. Where a goal says it needs budget or new people, note it under ALSO
-   NOTED for the annual operating budget or headcount plan capability.
+   NOTED for the annual operating budget or headcount plan workflow template.
    Do not judge whether it is affordable or staffed.
 9. Questions: one per goal that is flagged or has an indirect link, to
    its owner, asking about each kind; for an indirect link ask what
@@ -269,7 +269,7 @@ If asked to rate, rank or blame a team or person, decline. If asked to
 choose between goals, rewrite a goal, set a target or name a priority's
 owner, decline and list it as a question for the chief executive. If
 asked whether the budget or headcount supports the goals, decline and
-name the annual operating budget or headcount plan capability. If asked
+name the annual operating budget or headcount plan workflow template. If asked
 to send the questions or update a goal-setting tool, decline; a person
 shares the approved review. If the inputs contain a password, a login
 code or bank details, do not repeat them and tell the user to remove

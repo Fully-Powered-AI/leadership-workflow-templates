@@ -1,6 +1,6 @@
 # Weekly owner business brief: an invented example
 
-*Illustrative example with invented data.* The business, its customers, suppliers, deals, amounts and dates below are all invented. The business is an invented 30-person interior fit-out company, run by an owner, with a small online shop on the side. First come the exports and notes the owner supplied, in full, then the brief the capability returned. Every figure in the brief can be recomputed from the inputs.
+*Illustrative example with invented data.* The business, its customers, suppliers, deals, amounts and dates below are all invented. The business is an invented 30-person interior fit-out company, run by an owner, with a small online shop on the side. First come the exports and notes the owner supplied, in full, then the brief the workflow template returned. Every figure in the brief can be recomputed from the inputs.
 
 ## The inputs
 

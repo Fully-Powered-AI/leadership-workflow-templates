@@ -1,6 +1,6 @@
 # Goal alignment review: an invented example
 
-*Illustrative example with invented data.* The company, its priorities, its goals and every figure below are invented. Company K is an invented 80-person wholesale distributor of commercial kitchen equipment with seven teams. Its chief of staff runs a goal alignment review on the drafted goals for the first quarter of 2027, for the chief executive. First come the inputs the chief of staff supplied, in full, then the review the capability returned.
+*Illustrative example with invented data.* The company, its priorities, its goals and every figure below are invented. Company K is an invented 80-person wholesale distributor of commercial kitchen equipment with seven teams. Its chief of staff runs a goal alignment review on the drafted goals for the first quarter of 2027, for the chief executive. First come the inputs the chief of staff supplied, in full, then the review the workflow template returned.
 
 ## The inputs
 
@@ -145,7 +145,7 @@ No company parent: G08 Customer Service: Answer every order query within two wor
 
 **Also noted**
 
-- G04: needs people (two pickers for the late shift); for the headcount plan capability.
+- G04: needs people (two pickers for the late shift); for the headcount plan workflow template.
 
 **Left out**
 

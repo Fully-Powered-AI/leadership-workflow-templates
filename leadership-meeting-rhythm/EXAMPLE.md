@@ -1,6 +1,6 @@
 # Leadership meeting rhythm: an invented example
 
-*Illustrative example with invented data.* Pellacombe Facilities is an invented 120-person building maintenance and refurbishment contractor. Its people, meetings, decisions and figures are invented too. Joanna, the chief executive, says her week is full of meetings and the decisions still wait. On Tuesday 10 November 2026 her executive assistant, Hana, runs the capability with the meeting list, the decisions waiting, the reports that already exist and Joanna's settings. First come those inputs, in full, then the proposal that came back.
+*Illustrative example with invented data.* Pellacombe Facilities is an invented 120-person building maintenance and refurbishment contractor. Its people, meetings, decisions and figures are invented too. Joanna, the chief executive, says her week is full of meetings and the decisions still wait. On Tuesday 10 November 2026 her executive assistant, Hana, runs the workflow template with the meeting list, the decisions waiting, the reports that already exist and Joanna's settings. First come those inputs, in full, then the proposal that came back.
 
 ## The inputs
 

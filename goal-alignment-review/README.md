@@ -2,7 +2,7 @@
 
 Before next period's goals are set, the chief executive sees every team goal mapped to the company priority it serves: goals with no company parent, goals that pull against each other, priorities nobody owns, and the questions for each owner. It judges goals, never people.
 
-*Capability template · Leadership · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/goal-alignment-review/)*
+*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/goal-alignment-review/)*
 
 ## The outcome
 
@@ -34,7 +34,7 @@ One review, ready for the chief executive:
 - the goals that pull against each other, raised ones first, possible ones marked for both owners to confirm;
 - the priorities nobody owns;
 - the questions for each owner, grouped by owner, then the questions for the chief executive to settle with the department heads;
-- anything that needs budget or people, pointed to the capability that handles it.
+- anything that needs budget or people, pointed to the workflow template that handles it.
 
 Every section says "none" when it has nothing in it.
 
@@ -54,13 +54,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has to change for your company
 
-Map your goal-setting tool's columns to the default headers once and keep the mapping. Decide your period and how far ahead of it the review runs. Decide whether teams may set goals of their own and how many, and how many teams under one priority is worth a question. Write down what the company is not doing this period; the review is sharper with it. Name who decides, the chief executive alone or the leadership team together, and who shares the questions with the owners. It works with the money and the people left out: the budget and the headcount have their own capabilities. It runs in ChatGPT, Claude, Copilot or Gemini from the files you supply; it needs no connection to your goal-setting tool.
+Map your goal-setting tool's columns to the default headers once and keep the mapping. Decide your period and how far ahead of it the review runs. Decide whether teams may set goals of their own and how many, and how many teams under one priority is worth a question. Write down what the company is not doing this period; the review is sharper with it. Name who decides, the chief executive alone or the leadership team together, and who shares the questions with the owners. It works with the money and the people left out: the budget and the headcount have their own workflow templates. It runs in ChatGPT, Claude, Copilot or Gemini from the files you supply; it needs no connection to your goal-setting tool.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in one run; the record is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in one run; the record is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on last period's drafted goals, which your leadership team already argued over, with hard cases written in advance: a goal that names last period's priority, a priority with no team goal, two goals measured on the same thing in opposite directions, an owner column that gives a name instead of a role. The chief executive checks every link and every flag against the goals before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on last period's drafted goals, which your leadership team already argued over, with hard cases written in advance: a goal that names last period's priority, a priority with no team goal, two goals measured on the same thing in opposite directions, an owner column that gives a name instead of a role. The chief executive checks every link and every flag against the goals before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -71,11 +71,11 @@ Testing in your environment means running it on last period's drafted goals, whi
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -85,12 +85,12 @@ Testing in your environment means running it on last period's drafted goals, whi
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Annual operating budget](https://fullypowered.ai/capabilities/annual-operating-budget/)
-- [Headcount plan](https://fullypowered.ai/capabilities/headcount-plan/)
-- [Culture health check](https://fullypowered.ai/capabilities/culture-health-check/)
+- [Annual operating budget](https://fullypowered.ai/workflow templates/annual-operating-budget/)
+- [Headcount plan](https://fullypowered.ai/workflow templates/headcount-plan/)
+- [Culture health check](https://fullypowered.ai/workflow templates/culture-health-check/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

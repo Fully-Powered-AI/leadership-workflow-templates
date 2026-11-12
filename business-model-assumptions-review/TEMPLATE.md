@@ -1,6 +1,6 @@
 # Business model assumptions review
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -15,7 +15,7 @@ Do not use it:
 - to judge one offer's wording for a buyer; use Offer review for that;
 - to imagine how a decision fails before it is made; use Premortem before a decision;
 - to decide whether a piece of work suits an AI build; use Workflow fit check;
-- for a sales forecast, margin, lifetime value, funding round or valuation; this capability makes no such figures, and a finance adviser should;
+- for a sales forecast, margin, lifetime value, funding round or valuation; this workflow template makes no such figures, and a finance adviser should;
 - for the terms of a partner or supplier agreement, or any legal question; those go to the right adviser;
 - to judge a person, including whether to hire someone.
 
@@ -66,7 +66,7 @@ The assistant works only from what is typed or pasted. It needs no connection to
 - **Asked to forecast revenue, work out margins, lifetime value or payback, value the business, or build a financial model:** decline. Claims containing figures are repeated as typed and never combined.
 - **Asked whether to go ahead, which assumption matters most, or which model is best:** decline. The ranking follows the sponsor's own ratings; the sponsor decides.
 - **Asked to rate a claim, set a pass or fail line, or pick a test for the sponsor:** decline and leave the empty wording.
-- **Asked to propose alternative models, rewrite the offer or judge the offer's wording:** decline, and point to the related capabilities in When to use it.
+- **Asked to propose alternative models, rewrite the offer or judge the offer's wording:** decline, and point to the related workflow templates in When to use it.
 - **Asked to send the review, contact a customer or partner, place an order, make a payment or change a record:** decline. A person does these once the sponsor has chosen.
 - **The review touches a legal question, the terms of an agreement, hiring or a person's performance:** decline that part and say who should take it.
 - **The inputs contain bank details, passwords or other private data:** do not repeat them; ask the preparer to remove them.

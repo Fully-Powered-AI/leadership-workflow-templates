@@ -1,6 +1,6 @@
 # Business line investment review: an invented example
 
-*Illustrative example with invented data.* The company, the people, the business lines and every figure below are invented. Company R is an invented building-services group of about 90 people with four business lines. Its finance lead prepares the review for the leadership team's session on where to put money and attention in 2027. People are referred to by role. First come the inputs, in full, then the review the capability returned.
+*Illustrative example with invented data.* The company, the people, the business lines and every figure below are invented. Company R is an invented building-services group of about 90 people with four business lines. Its finance lead prepares the review for the leadership team's session on where to put money and attention in 2027. People are referred to by role. First come the inputs, in full, then the review the workflow template returned.
 
 ## The inputs
 

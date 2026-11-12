@@ -1,10 +1,10 @@
 {
   "id": "executive-situation-brief",
   "name": "Executive situation brief",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before a conversation that matters, with a key partner, a major customer or a co-founder, the executive gets one brief from the records they approve: the short version in a sentence, what is already decided and promised, what each side has said, the question to settle and the choices open. The executive decides.",
-  "directory": "https://fullypowered.ai/capabilities/executive-situation-brief/",
+  "directory": "https://fullypowered.ai/workflow templates/executive-situation-brief/",
   "primary_function": "functions/leadership",
   "functions": [
     "functions/leadership",

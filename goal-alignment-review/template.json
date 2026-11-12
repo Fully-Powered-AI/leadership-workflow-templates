@@ -1,10 +1,10 @@
 {
   "id": "goal-alignment-review",
   "name": "Goal alignment review",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before next period's goals are set, the chief executive sees every team goal mapped to the company priority it serves: goals with no company parent, goals that pull against each other, priorities nobody owns, and the questions for each owner. It judges goals, never people.",
-  "directory": "https://fullypowered.ai/capabilities/goal-alignment-review/",
+  "directory": "https://fullypowered.ai/workflow templates/goal-alignment-review/",
   "primary_function": "functions/leadership",
   "functions": [
     "functions/leadership",

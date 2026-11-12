@@ -1,6 +1,6 @@
 # Executive situation brief
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -34,7 +34,7 @@ Everything is pasted or attached by a person. No mailbox, calendar, drive or cus
 
 1. **The request:** today's date; who the brief is for; the subject; the other side (the organisation, or the person by role); whether it is a conversation (date, time, length, who attends from each side) or a decision (the date it is due); the question to settle, in the executive's words, if they have one; any choice the executive wants listed; and any setting that differs from the defaults. If the subject or the other side is missing, stop and ask. If there is no date, ask; until it is answered, write "date not given" and count no days.
 2. **The approved records,** numbered R1, R2 and so on in the order supplied: emails, letters, meeting notes, a summary of the terms the two sides work under, a figures report, earlier briefs. Each needs a title, a date and who wrote it. A record marked draft, or one the person says is not approved, is not used; it is listed under "Not used". An undated record is used, marked "undated", and its date becomes a point to check. If no approved record is supplied, stop and ask; never write a brief from general knowledge or the internet.
-3. **The decision log export,** if the company keeps one. Default column headers: `id`, `date_approved`, `topic`, `decision`, `approved_by`, `status`, `source`. Other columns are ignored, so the decisions export of the decision log capability works as it is. `status` is Active, Superseded or Withdrawn. If any of these seven headers is missing or named differently, stop, list the headers found and ask which column holds each. Never guess a mapping. If no log is supplied, write "No decision log supplied".
+3. **The decision log export,** if the company keeps one. Default column headers: `id`, `date_approved`, `topic`, `decision`, `approved_by`, `status`, `source`. Other columns are ignored, so the decisions export of the decision log workflow template works as it is. `status` is Active, Superseded or Withdrawn. If any of these seven headers is missing or named differently, stop, list the headers found and ask which column holds each. Never guess a mapping. If no log is supplied, write "No decision log supplied".
 4. **Your settings:** [your staleness limit] (default: 90 days before the conversation or decision), [your history limit] (default: 8 entries), [your statement limit] (default: 4 statements for each side) and [your choice limit] (default: 5 choices, plus making no commitment).
 
 ## The procedure
@@ -54,7 +54,7 @@ Everything is pasted or attached by a person. No mailbox, calendar, drive or cus
 11. **The dates that matter.** Every date in the records that falls on or after today and bears on the subject, in date order, with what falls due, the record, and the number of calendar days after (or before) the conversation or decision. A date the records give only loosely ("from April", "the second half") keeps the record's words, gets no count and goes after the exact dates, in the order it falls.
 12. **For your advisers.** Any question in the records about what an agreement or the terms mean, whether something is permitted, tax, or a dispute: the question by kind, the records that raise it, and "No view is given here." If none: "None raised."
 13. **Count the points to check** and list them first, one question each, with the section it affects and who can answer it. A gap is counted once even if it shows in several sections.
-14. **Declined requests.** The executive's own question to settle is not a declined request: it stays in section 6, and the brief gives no recommended answer to it. Anything else the request asked for that this capability does not do (a view of a person's style, a recommended position, tactics, a legal view, sending something) is listed under "Asked for and not covered", with the reason in a few words. A declined request about a person is described without repeating any description of that person, and without naming the person unless the request does; if the request does not say which person, say "one of the attendees".
+14. **Declined requests.** The executive's own question to settle is not a declined request: it stays in section 6, and the brief gives no recommended answer to it. Anything else the request asked for that this workflow template does not do (a view of a person's style, a recommended position, tactics, a legal view, sending something) is listed under "Asked for and not covered", with the reason in a few words. A declined request about a person is described without repeating any description of that person, and without naming the person unless the request does; if the request does not say which person, say "one of the attendees".
 15. **Return the draft** to the person who ran it, for the executive. When someone answers a point to check, update the brief, mark the answer "settled by [name]" and recount. Nothing follows the closing line; anything the person needs to know, such as a date that looks wrong, goes under "To check first".
 
 ## Exceptions and stop conditions
@@ -297,7 +297,7 @@ ends: "Draft for [executive]. Nothing has been sent, posted or changed."
 - Who runs it for the executive, and who owns each kind of record (figures, meeting notes, the terms the two sides work under).
 - Which records may be given to the assistant, and in which AI product: ChatGPT, Claude, Copilot or Gemini. Agree who must approve a record before it is given to the assistant.
 - [your staleness limit], [your history limit], [your statement limit] and [your choice limit].
-- Your decision log's column headers, if they differ from the defaults. If your log comes from the decision log capability, its decisions export works as it is.
+- Your decision log's column headers, if they differ from the defaults. If your log comes from the decision log workflow template, its decisions export works as it is.
 - Who the company's advisers are, so the questions listed for them reach the right person.
 - Whether the brief is ever shared beyond the executive. By default it is for the executive only.
 

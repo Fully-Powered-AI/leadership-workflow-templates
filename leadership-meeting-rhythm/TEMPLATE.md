@@ -1,6 +1,6 @@
 # Leadership meeting rhythm
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -13,7 +13,7 @@ Use it when a chief executive or owner says the week is full of meetings and the
 Do not use it for:
 
 - one meeting's agenda, record and follow-ups, which belong to Meeting agenda, notes and follow-ups;
-- keeping the register of what the leadership approved, which belongs to Decision log; that register can supply the decision counts this capability reads;
+- keeping the register of what the leadership approved, which belongs to Decision log; that register can supply the decision counts this workflow template reads;
 - the board meeting and its papers, which belong to Board meeting pack; the board meeting is counted in the hours here and never redesigned;
 - deciding who sits on the leadership team, judging how any person performs, or settling any of the waiting decisions;
 - changing invitations or calendars. A person makes every change after the chief executive chooses.

@@ -1,6 +1,6 @@
 # Executive situation brief: an invented example
 
-*Illustrative example with invented data.* Company K is an invented 45-person business that makes stainless-steel shelving and benching for commercial kitchens. Partner D is an invented distributor that sells Company K's products in the North region. Every company, person, record and figure here is invented. Noor, Company K's CEO, has a video call with Partner D's managing director and sales director on Thursday 5 November 2026. Tomas, her chief of staff, runs the capability on Tuesday 3 November. First come the inputs he supplied, in full, then the brief the template should produce, written out by hand to follow its rules.
+*Illustrative example with invented data.* Company K is an invented 45-person business that makes stainless-steel shelving and benching for commercial kitchens. Partner D is an invented distributor that sells Company K's products in the North region. Every company, person, record and figure here is invented. Noor, Company K's CEO, has a video call with Partner D's managing director and sales director on Thursday 5 November 2026. Tomas, her chief of staff, runs the workflow template on Tuesday 3 November. First come the inputs he supplied, in full, then the brief the template should produce, written out by hand to follow its rules.
 
 ## The inputs
 
