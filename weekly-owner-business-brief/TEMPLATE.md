@@ -280,5 +280,5 @@ total before you return the brief.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Tried on its invented example on 10 November 2026; the record of the run is published with it. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried on its invented example on 10 November 2026; the record of the run is published with it. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 - 10 November 2026, after the recorded run. One sentence in Inputs, on a blank last_activity, was reworded and its meaning is unchanged; the instruction block and the output format were not touched. The recorded run was not repeated.

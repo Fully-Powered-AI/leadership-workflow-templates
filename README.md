@@ -1,8 +1,10 @@
-# Fully Powered Workflow Templates: Leadership
+# FullyPowered Workflow Templates: Leadership
 
 Run the company from the whole picture, every week. These workflow templates take the briefs and reviews a leadership team rarely has time to prepare well and give an AI assistant a precise way to prepare them from your own records, so the time in the room goes on the decision.
 
 This repository holds 6 workflow templates for owners, chief executives and leadership teams. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+
+These templates are examples and a starting point, not a complete list of what a team can do. FullyPowered AI can build any workflow for your company, including one that runs several steps, in a [Workflow Sprint or a scoped implementation](https://fullypowered.ai/pricing/).
 
 ## The workflow templates
 
@@ -31,10 +33,10 @@ Each folder says exactly what was checked and when: who wrote it, that its sourc
 
 ## More workflow templates
 
-The [Fully Powered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
+The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
 
 For the work these templates come from, by team and by task, see [AI workflow examples for leadership teams](https://fullypowered.ai/functions/leadership/).
 
 ## Licence and credits
 
-MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [Fully Powered AI](https://fullypowered.ai/).
+MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/).

@@ -50,11 +50,11 @@ Decide who sponsors: the person who decides where the money goes. Keep or change
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template, drawing on a published open-source package credited in its sources. It was editorially reviewed on 10 November 2026. It was tried twice on its invented example in Claude on 10 November 2026, the second time after the instructions were revised, and the record of the second run is published with the template. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on a published open-source package credited in its sources. It was editorially reviewed on 10 November 2026. It was tried twice on its invented example in Claude on 10 November 2026, the second time after the instructions were revised, and the record of the second run is published with the template. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a model you already know the outcome of, with the claims written as they stood at the time, plus hard cases written in advance: a block with no claims, a rating outside the scale, evidence with no date, a claim that says "customers love it" with no kind. The sponsor checks the ranking against the ratings before relying on it. [Offer review](https://fullypowered.ai/workflows/offer-review/) takes the offer block further, and [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/) is the next step once the sponsor has chosen what to commit to.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -85,4 +85,4 @@ Testing in your environment means running it on a model you already know the out
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
