@@ -1,10 +1,10 @@
-# Business line investment review: a trial on the invented example
+# Business line investment review: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-I did not write this template. I ran it once on the inputs of its invented example (Company R, a building-services group with four business lines). No client data was used. I read the template and the example's inputs first, produced the review, and only then compared it with the example's published output.
+I did not write this template. I ran it once on the inputs of its example (Company R, a building-services group with four business lines). No client data was used. I read the template and the example's inputs first, produced the review, and only then compared it with the example's published output.
 
 ## Inputs used
 
@@ -152,7 +152,7 @@ Shortcomings of the template found in this run:
 
 - The acceptance tests are still marked "Proposed tests. None has been run." This trial is one run on one example; it does not replace them.
 - The template is silent on how to word a question for the line owner where the template's role list has both the line owner and the finance lead involved (for example, the projects that slipped), so the split of such questions between roles is a judgment.
-- The version note says "Not yet tried on its invented example." This trial is that attempt, with one model, on one run.
+- The version note says "Not yet tried on its example." This trial is that attempt, with one model, on one run.
 
 ## Changes made after this run
 

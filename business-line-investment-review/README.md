@@ -8,7 +8,7 @@ Set each business line side by side on one basis and placed as invest, investiga
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/business-line-investment-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-line-investment-review&from=gh-business-line-investment-review)*
@@ -39,7 +39,7 @@ One document with the same layout for every line: strategic fit with the words r
 
 Nothing is averaged away. A figure finance has not reviewed is shown and labelled, never used. If the numbers do not agree with themselves, the review stops and says where.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -60,7 +60,7 @@ Name your lines and their owners, and agree the two periods. Write your prioriti
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, by a model that had not written it. The run kept to the steps and its figures and placements matched the example; it found open points (what counts as an untested estimate, whether a line needs both periods reviewed to be placed as invest, which owner's note counts for a fit reading, which period's capital to show, and the order of the two recorded rows when the latest is not reviewed), which were closed afterwards without a rerun, as its record says. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026, by a model that had not written it. The run kept to the steps and its figures and placements matched the example; it found open points (what counts as an untested estimate, whether a line needs both periods reviewed to be placed as invest, which owner's note counts for a fit reading, which period's capital to show, and the order of the two recorded rows when the latest is not reviewed), which were closed afterwards without a rerun, as its record says. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past review your leadership team remembers well, plus hard cases written in advance, each with its expected behavior: a line whose latest figures are not yet reviewed, a result that does not equal revenue less direct costs, shared resources that do not add up, an owner's estimate offered as fact. The finance lead checks every figure against the finance reports before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-line-investment-review&from=gh-business-line-investment-review) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-line-investment-review&from=gh-business-line-investment-review) describes the record we keep.
 
@@ -68,13 +68,13 @@ Testing in your environment means running it on a past review your leadership te
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

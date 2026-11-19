@@ -1,10 +1,10 @@
-# Leadership meeting rhythm: trial on the invented example
+# Leadership meeting rhythm: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-This record is of the second run. An earlier run, the same day, led to the first round of review edits (listed at the end). After a second review, the instruction block, the procedure, the output format and the example were changed again, so the template was run once more. The inputs are the invented Pellacombe Facilities example in `public/example.md`: the settings, the meeting list, the decisions waiting and the existing reports, with one change from the earlier run (the tender in W1 is now for schools refurbishment, not cleaning, so that the invented company is a building contractor). No client data was used.
+This record is of the second run. An earlier run, the same day, led to the first round of review edits (listed at the end). After a second review, the instruction block, the procedure, the output format and the example were changed again, so the template was run once more. The inputs are the illustrative Pellacombe Facilities example in `public/example.md`: the settings, the meeting list, the decisions waiting and the existing reports, with one change from the earlier run (the tender in W1 is now for schools refurbishment, not cleaning, so that the illustrative company is a building contractor). No client data was used.
 
 ## How the run went
 

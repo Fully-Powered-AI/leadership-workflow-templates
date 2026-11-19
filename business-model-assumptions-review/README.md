@@ -8,7 +8,7 @@ See a model block by block with each claim marked evidenced or assumed, the risk
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/business-model-assumptions-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review)*
@@ -39,7 +39,7 @@ One page in a fixed order. The model block by block, each claim marked evidenced
 
 Where something is missing, such as a block with no claims or an assumption nobody rated, the page says so and asks. It never fills the gap itself.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -59,7 +59,7 @@ Decide who sponsors: the person who decides where the money goes. Keep or change
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template, drawing on a published open-source package credited in its sources. It was editorially reviewed on 10 November 2026. It was tried twice on its invented example in Claude on 10 November 2026, the second time after the instructions were revised, and the record of the second run is published with the template. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on a published open-source package credited in its sources. It was editorially reviewed on 10 November 2026. It was tried twice on its example in Claude on 10 November 2026, the second time after the instructions were revised, and the record of the second run is published with the template. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a model you already know the outcome of, with the claims written as they stood at the time, plus hard cases written in advance: a block with no claims, a rating outside the scale, evidence with no date, a claim that says "customers love it" with no kind. The sponsor checks the ranking against the ratings before relying on it. [Offer review](https://fullypowered.ai/workflows/offer-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review) takes the offer block further, and [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review) is the next step once the sponsor has chosen what to commit to.
 
@@ -67,13 +67,13 @@ Testing in your environment means running it on a model you already know the out
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

@@ -1,10 +1,10 @@
-# Trial: Business model assumptions review, run on its invented example (second run)
+# Trial: Business model assumptions review, run on its example (second run)
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in [example.md](example.md): the brief and the thirteen-row claims list for "Company A", an invented plant-care business. No client data was used. This is the second run. The first run, on an earlier wording of the template, found that the proposed test for a claim already marked "said" could only produce more "said" evidence; the template was revised (that claim now gets rung 3), along with some smaller wording points, and this run follows the revised instruction block and output format, using the inputs only. The example's own review was read after the output was produced, not before. The template was written by someone else; this run did not write or change it.
+The inputs were the example in [example.md](example.md): the brief and the thirteen-row claims list for "Company A", an illustrative plant-care business. No client data was used. This is the second run. The first run, on an earlier wording of the template, found that the proposed test for a claim already marked "said" could only produce more "said" evidence; the template was revised (that claim now gets rung 3), along with some smaller wording points, and this run follows the revised instruction block and output format, using the inputs only. The example's own review was read after the output was produced, not before. The template was written by someone else; this run did not write or change it.
 
 ## What came out
 

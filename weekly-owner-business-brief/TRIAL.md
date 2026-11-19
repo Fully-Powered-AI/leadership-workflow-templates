@@ -1,10 +1,10 @@
-# Weekly owner business brief: a trial on the invented example
+# Weekly owner business brief: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [example.md](example.md): the settings, cash.csv, sales.csv, the two pipeline files, receivables.csv, calendar.csv and the owner's two notes, exactly as printed there. No client data was used.
+The inputs are the example in [example.md](example.md): the settings, cash.csv, sales.csv, the two pipeline files, receivables.csv, calendar.csv and the owner's two notes, exactly as printed there. No client data was used.
 
 This record replaces earlier ones made the same day. The first run, by a model that did not write the template, found eight places where the template was ambiguous, and the template was revised. A second run, by the model that made the revision, agreed with the example. An independent review then failed the template for missing source credits and left nine smaller points, and the template was revised again: credits added, a lead-in before the output format, the default limits, the week definitions and the stop conditions restored in the instruction block, a rule for an amount printed beside a note, a rule for a reopened deal, and a softer one-page rule. This third run was made after those changes, by Claude Sonnet 5.5, the model that made them, so it is not independent and no independent run of the final text is on record. It read the revised instruction block, the output format and the inputs, produced the brief below, and the result was compared with the example. The two agree word for word. The example inputs and output were not changed.
 
@@ -88,6 +88,6 @@ Places where the template is still open to a guess or was not exercised:
 1. The brief ran to roughly 900 words, longer than a printed page in the plain layout above. The template now says to aim for about one page and to shorten wording, never a section, source or question; this run did not shorten anything, because the example is the full ordinary case.
 2. This run did not exercise a reopened deal, a note that does not match a customer or deal exactly, a renamed header, a missing export, a second currency, a duplicate deal, a held-back account missing from cash.csv, an instruction hidden in a note or export, or a failed tie-out. No stop or missing-export case has been run.
 
-Only the ordinary-week case (acceptance test 1) was run, on the invented example, in one product. It is not a test in a client environment, and the template has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Only the ordinary-week case (acceptance test 1) was run, on the example, in one product. It is not a test in a client environment, and the template has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 10 November 2026, after this run: one sentence in the template's Inputs, on a blank last_activity, was reworded for the source credits. Its meaning is unchanged, the instruction block and output format were not touched, and the recorded output above is as it came out of the run. The run was not repeated.

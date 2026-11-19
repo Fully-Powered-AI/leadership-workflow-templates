@@ -1,6 +1,6 @@
-# Goal alignment review: an invented example
+# Goal alignment review: an example
 
-*Illustrative example with invented data.* The company, its priorities, its goals and every figure below are invented. Company K is an invented 80-person wholesale distributor of commercial kitchen equipment with seven teams. Its chief of staff runs a goal alignment review on the drafted goals for the first quarter of 2027, for the chief executive. First come the inputs the chief of staff supplied, in full, then the review the workflow template returned.
+*Illustrative example with sample data.* The company, its priorities, its goals and every figure below are illustrative. Company K is an illustrative 80-person wholesale distributor of commercial kitchen equipment with seven teams. Its chief of staff runs a goal alignment review on the drafted goals for the first quarter of 2027, for the chief executive. First come the inputs the chief of staff supplied, in full, then the review the workflow template returned.
 
 ## The inputs
 

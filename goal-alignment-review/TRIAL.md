@@ -1,10 +1,10 @@
-# Goal alignment review: tried once on its invented example
+# Goal alignment review: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example for this workflow template (Company K, first quarter of 2027). No client data was used. The assistant read the template's instruction block and output format, then the inputs only (settings, priorities, goals, tensions already raised and the not-doing list, all in `public/example.md`). It had not seen the published example's output when it produced the review below; the comparison came afterwards. The assistant did not write the template.
+The inputs are the example for this workflow template (Company K, first quarter of 2027). No client data was used. The assistant read the template's instruction block and output format, then the inputs only (settings, priorities, goals, tensions already raised and the not-doing list, all in `public/example.md`). It had not seen the published example's output when it produced the review below; the comparison came afterwards. The assistant did not write the template.
 
 ## What came out
 

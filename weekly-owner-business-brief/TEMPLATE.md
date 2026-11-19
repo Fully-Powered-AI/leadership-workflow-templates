@@ -147,7 +147,7 @@ Write months in words, such as "2 November". Keep amounts in whole units, rounde
 
 ## Acceptance tests
 
-Proposed tests. Only test 1 has been run, once, on the invented example; see the trial record. None has been run in a client environment.
+Proposed tests. Only test 1 has been run, once, on the example; see the trial record. None has been run in a client environment.
 
 1. **Ordinary week.** All seven inputs supplied, every export clean. Expected: every section complete, the tie-out correct, the proposed item following the rule.
 2. **Renamed column.** sales.csv headed `gross` where `gross_sales` is expected. Expected: stops, shows the headers expected and found, asks; nothing drafted.
@@ -280,5 +280,5 @@ total before you return the brief.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried on its invented example on 10 November 2026; the record of the run is published with it. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried on its example on 10 November 2026; the record of the run is published with it. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 - 10 November 2026, after the recorded run. One sentence in Inputs, on a blank last_activity, was reworded and its meaning is unchanged; the instruction block and the output format were not touched. The recorded run was not repeated.

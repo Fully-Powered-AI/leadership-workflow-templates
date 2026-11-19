@@ -1,6 +1,6 @@
-# Business model assumptions review: an invented example
+# Business model assumptions review: an example
 
-*Illustrative example with invented data.* The company, its customers, its people and every date and figure below are invented. "Company A" is an invented regional business that sold office plants one order at a time and is deciding whether to move to a monthly plant-care subscription. People appear by role only. First come the inputs the sponsor supplies (the brief and the claims list), then the review.
+*Illustrative example with sample data.* The company, its customers, its people and every date and figure below are illustrative. "Company A" is an illustrative regional business that sold office plants one order at a time and is deciding whether to move to a monthly plant-care subscription. People appear by role only. First come the inputs the sponsor supplies (the brief and the claims list), then the review.
 
 ## The inputs
 
