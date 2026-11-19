@@ -3,7 +3,7 @@
 Set each business line side by side on one basis and placed as invest, investigate or reduce commitment, for leadership to discuss and decide.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Business line investment review on our website](https://fullypowered.ai/workflows/business-line-investment-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-line-investment-review&from=gh-business-line-investment-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Business line investment review on our website](https://fullypowered.ai/workflows/business-line-investment-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-line-investment-review&from=gh-business-line-investment-review). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 

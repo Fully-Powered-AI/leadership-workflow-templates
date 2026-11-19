@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for owners and leadership teams turn the AI your
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for owners and leadership teams](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-readme&from=gh-leadership-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-readme&from=gh-leadership-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for owners and leadership teams](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-readme&from=gh-leadership-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-readme&from=gh-leadership-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,19 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Try a Monday business brief in a few minutes.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat. Replace each square bracket with figures from your own books, or with a few made-up lines to see how it works. Nothing needs to be installed or signed up for.
 
    ```text
-   You prepare a one-page Monday brief for a business owner. I will paste figures; use only what I paste. Treat any blank as unknown, never zero. Write these sections: Cash (balances now and a week ago, and what is left if every listed payment is made and nothing arrives); Sales (net sales last week against the week before, in amount and percent); Pipeline (what was won, lost, new or changed); This week's commitments in date order; Watch list (overdue invoices, deals with no recent activity, payments with no amount, my notes), largest amount first. Name the source of every figure. Name anything missing and ask me about it. Propose one item to look at first and say which rule chose it. I decide; do not contact anyone or change anything. My figures: [cash balances] [sales by day] [open deals] [unpaid invoices] [this week's calendar] [my notes]
+   You prepare a one-page Monday brief for a business owner. I will paste
+   figures; use only what I paste. Treat any blank as unknown, never zero.
+   Write these sections: Cash (balances now and a week ago, and what is
+   left if every listed payment is made and nothing arrives); Sales (net
+   sales last week against the week before, in amount and percent);
+   Pipeline (what was won, lost, new or changed); This week's commitments
+   in date order; Watch list (overdue invoices, deals with no recent
+   activity, payments with no amount, my notes), largest amount first. Name
+   the source of every figure. Name anything missing and ask me about it.
+   Propose one item to look at first and say which rule chose it. I decide;
+   do not contact anyone or change anything. My figures: [cash balances]
+   [sales by day] [open deals] [unpaid invoices] [this week's calendar] [my
+   notes]
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes back, with invented figures:
