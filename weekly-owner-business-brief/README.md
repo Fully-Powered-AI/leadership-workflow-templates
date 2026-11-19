@@ -1,10 +1,17 @@
 # Weekly owner business brief
 
-Each Monday the owner gets about one page built from the exports they supply: cash, last week's sales against the week before, pipeline movement, the week's commitments and a watch list, with one item to look at first. Every figure names its source, and every missing export is named.
+One page each Monday from your own exports: cash, sales, pipeline, commitments and a watch list, with one item first. The owner decides what comes first.
 
-*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/weekly-owner-business-brief/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Weekly owner business brief on our website](https://fullypowered.ai/workflows/weekly-owner-business-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-weekly-owner-business-brief&from=gh-weekly-owner-business-brief) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/weekly-owner-business-brief/?from=gh-weekly-owner-business-brief)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/weekly-owner-business-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-weekly-owner-business-brief&from=gh-weekly-owner-business-brief)*
 
 ## The outcome
 
@@ -36,16 +43,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Leadership](https://fullypowered.ai/functions/leadership/), where the owner's first hour of the week sets the week.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), whose balances and unpaid invoices feed the cash and watch-list sections.
-- [Sales](https://fullypowered.ai/functions/sales/), whose pipeline export feeds the movement section.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where a few large engagements move the whole week.
-- [Construction](https://fullypowered.ai/industries/construction/), where payments, deliveries and sign-offs land on named days.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where sales by channel change from one week to the next.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the owner has many things to hold in mind and several systems to look in.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when there are more deals, payments and people than one memory can hold.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-weekly-owner-business-brief&from=gh-weekly-owner-business-brief), where the owner's first hour of the week sets the week.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-weekly-owner-business-brief&from=gh-weekly-owner-business-brief), whose balances and unpaid invoices feed the cash and watch-list sections.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-weekly-owner-business-brief&from=gh-weekly-owner-business-brief), whose pipeline export feeds the movement section.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-weekly-owner-business-brief&from=gh-weekly-owner-business-brief), where a few large engagements move the whole week.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-weekly-owner-business-brief&from=gh-weekly-owner-business-brief), where payments, deliveries and sign-offs land on named days.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-weekly-owner-business-brief&from=gh-weekly-owner-business-brief), where sales by channel change from one week to the next.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-weekly-owner-business-brief&from=gh-weekly-owner-business-brief), where the owner has many things to hold in mind and several systems to look in.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-weekly-owner-business-brief&from=gh-weekly-owner-business-brief), when there are more deals, payments and people than one memory can hold.
 
-It is a weekly look across the business and stays apart from the work that goes deeper. [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/) covers the monthly measures. [Weekly receivables summary](https://fullypowered.ai/workflows/weekly-receivables-summary/) covers the full position on money owed. [Sales pipeline review](https://fullypowered.ai/workflows/sales-pipeline-review/) covers the whole pipeline deal by deal. This page names an item from each only when it needs the owner's eye.
+It is a weekly look across the business and stays apart from the work that goes deeper. [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-weekly-owner-business-brief&from=gh-weekly-owner-business-brief) covers the monthly measures. [Weekly receivables summary](https://fullypowered.ai/workflows/weekly-receivables-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-weekly-owner-business-brief&from=gh-weekly-owner-business-brief) covers the full position on money owed. [Sales pipeline review](https://fullypowered.ai/workflows/sales-pipeline-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-weekly-owner-business-brief&from=gh-weekly-owner-business-brief) covers the whole pipeline deal by deal. This page names an item from each only when it needs the owner's eye.
 
 ## What has to change for your company
 
@@ -55,7 +62,7 @@ Set your own limits: the cash floor, the fall in sales that counts, how many day
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude; the record of that run is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past weeks the owner remembers well, plus hard cases written in advance: an export with a renamed column, a deal that vanished from the list, a payment with no amount, a week with no sales file. The owner checks every figure against the source export before relying on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past weeks the owner remembers well, plus hard cases written in advance: an export with a renamed column, a deal that vanished from the list, a payment with no amount, a week with no sales file. The owner checks every figure against the source export before relying on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-weekly-owner-business-brief&from=gh-weekly-owner-business-brief) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-weekly-owner-business-brief&from=gh-weekly-owner-business-brief) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -82,10 +89,10 @@ Testing in your environment means running it on two or three past weeks the owne
 
 ## Related workflow templates
 
-- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/)
-- [Weekly receivables summary](https://fullypowered.ai/workflows/weekly-receivables-summary/)
-- [Sales pipeline review](https://fullypowered.ai/workflows/sales-pipeline-review/)
+- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-weekly-owner-business-brief&from=gh-weekly-owner-business-brief)
+- [Weekly receivables summary](https://fullypowered.ai/workflows/weekly-receivables-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-weekly-owner-business-brief&from=gh-weekly-owner-business-brief)
+- [Sales pipeline review](https://fullypowered.ai/workflows/sales-pipeline-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-weekly-owner-business-brief&from=gh-weekly-owner-business-brief)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-weekly-owner-business-brief&from=gh-weekly-owner-business-brief).

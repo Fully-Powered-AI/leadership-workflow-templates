@@ -1,10 +1,17 @@
 # Goal alignment review
 
-Before next period's goals are set, the chief executive sees every team goal mapped to the company priority it serves: goals with no company parent, goals that pull against each other, priorities nobody owns, and the questions for each owner. It judges goals, never people.
+See every team goal mapped to the company priority it serves, with gaps and clashes as questions for owners. The chief executive decides.
 
-*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/goal-alignment-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Goal alignment review on our website](https://fullypowered.ai/workflows/goal-alignment-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-goal-alignment-review&from=gh-leadership-goal-alignment-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/goal-alignment-review/?from=gh-leadership-goal-alignment-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/goal-alignment-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-goal-alignment-review&from=gh-leadership-goal-alignment-review)*
 
 ## The outcome
 
@@ -44,15 +51,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Leadership](https://fullypowered.ai/functions/leadership/), which sets the priorities and settles what competes between them.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where the chief of staff or head of operations runs the planning cycle.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where practice and service-line goals have to add up to one firm plan.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where product, engineering and go-to-market goals drift apart fastest.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where sales, purchasing and the plant set goals on the same stock and the same margin.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where service levels, freight cost and warehouse space pull on one another.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the leadership team can no longer see every team's plan in one meeting.
-- [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/), when a portfolio company's team goals have to answer to the owners' plan.
-- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/), when two companies' goals have to sit under one list of priorities.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-goal-alignment-review&from=gh-leadership-goal-alignment-review), which sets the priorities and settles what competes between them.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-goal-alignment-review&from=gh-leadership-goal-alignment-review), where the chief of staff or head of operations runs the planning cycle.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-goal-alignment-review&from=gh-leadership-goal-alignment-review), where practice and service-line goals have to add up to one firm plan.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-goal-alignment-review&from=gh-leadership-goal-alignment-review), where product, engineering and go-to-market goals drift apart fastest.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-goal-alignment-review&from=gh-leadership-goal-alignment-review), where sales, purchasing and the plant set goals on the same stock and the same margin.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-goal-alignment-review&from=gh-leadership-goal-alignment-review), where service levels, freight cost and warehouse space pull on one another.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-goal-alignment-review&from=gh-leadership-goal-alignment-review), when the leadership team can no longer see every team's plan in one meeting.
+- [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-goal-alignment-review&from=gh-leadership-goal-alignment-review), when a portfolio company's team goals have to answer to the owners' plan.
+- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-goal-alignment-review&from=gh-leadership-goal-alignment-review), when two companies' goals have to sit under one list of priorities.
 
 ## What has to change for your company
 
@@ -62,7 +69,7 @@ Map your goal-setting tool's columns to the default headers once and keep the ma
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in one run; the record is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on last period's drafted goals, which your leadership team already argued over, with hard cases written in advance: a goal that names last period's priority, a priority with no team goal, two goals measured on the same thing in opposite directions, an owner column that gives a name instead of a role. The chief executive checks every link and every flag against the goals before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on last period's drafted goals, which your leadership team already argued over, with hard cases written in advance: a goal that names last period's priority, a priority with no team goal, two goals measured on the same thing in opposite directions, an owner column that gives a name instead of a role. The chief executive checks every link and every flag against the goals before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-goal-alignment-review&from=gh-leadership-goal-alignment-review) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-goal-alignment-review&from=gh-leadership-goal-alignment-review) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -89,10 +96,10 @@ Testing in your environment means running it on last period's drafted goals, whi
 
 ## Related workflow templates
 
-- [Annual operating budget](https://fullypowered.ai/workflows/annual-operating-budget/)
-- [Headcount plan](https://fullypowered.ai/workflows/headcount-plan/)
-- [Culture health check](https://fullypowered.ai/workflows/culture-health-check/)
+- [Annual operating budget](https://fullypowered.ai/workflows/annual-operating-budget/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-goal-alignment-review&from=gh-leadership-goal-alignment-review)
+- [Headcount plan](https://fullypowered.ai/workflows/headcount-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-goal-alignment-review&from=gh-leadership-goal-alignment-review)
+- [Culture health check](https://fullypowered.ai/workflows/culture-health-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-goal-alignment-review&from=gh-leadership-goal-alignment-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-goal-alignment-review&from=gh-leadership-goal-alignment-review).

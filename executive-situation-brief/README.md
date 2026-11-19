@@ -1,10 +1,17 @@
 # Executive situation brief
 
-Before a conversation that matters, with a key partner, a major customer or a co-founder, the executive gets one brief from the records they approve: the short version in a sentence, what is already decided and promised, what each side has said, the question to settle and the choices open. The executive decides.
+Walk into a meeting with a partner or customer holding the whole record: decisions, promises, positions and open choices. The executive decides.
 
-*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/executive-situation-brief/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Executive situation brief on our website](https://fullypowered.ai/workflows/executive-situation-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-executive-situation-brief&from=gh-leadership-executive-situation-brief) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/executive-situation-brief/?from=gh-leadership-executive-situation-brief)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/executive-situation-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-executive-situation-brief&from=gh-leadership-executive-situation-brief)*
 
 ## The outcome
 
@@ -46,25 +53,25 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Leadership](https://fullypowered.ai/functions/leadership/): the CEO, founder or managing partner who carries the company's most important relationships.
-- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/): the chief of staff or executive assistant who gathers the record before the executive needs it.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): firms whose biggest clients and referral partners are managed by the people who run the firm.
-- [Software technology](https://fullypowered.ai/industries/software-technology/): companies whose channel partners and largest customers ask for more with every renewal.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/): makers whose distributors and key accounts hold the territory and the volume.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/): brands whose retailers and distributors decide where the product is sold.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/): where a conversation between co-founders or with a first big partner shapes the company.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): when partners and customers multiply and nobody holds the whole history in their head.
-- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/): when two companies' records and commitments have to be read together.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-executive-situation-brief&from=gh-leadership-executive-situation-brief): the CEO, founder or managing partner who carries the company's most important relationships.
+- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-executive-situation-brief&from=gh-leadership-executive-situation-brief): the chief of staff or executive assistant who gathers the record before the executive needs it.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-executive-situation-brief&from=gh-leadership-executive-situation-brief): firms whose biggest clients and referral partners are managed by the people who run the firm.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-executive-situation-brief&from=gh-leadership-executive-situation-brief): companies whose channel partners and largest customers ask for more with every renewal.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-executive-situation-brief&from=gh-leadership-executive-situation-brief): makers whose distributors and key accounts hold the territory and the volume.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-executive-situation-brief&from=gh-leadership-executive-situation-brief): brands whose retailers and distributors decide where the product is sold.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-executive-situation-brief&from=gh-leadership-executive-situation-brief): where a conversation between co-founders or with a first big partner shapes the company.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-executive-situation-brief&from=gh-leadership-executive-situation-brief): when partners and customers multiply and nobody holds the whole history in their head.
+- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-executive-situation-brief&from=gh-leadership-executive-situation-brief): when two companies' records and commitments have to be read together.
 
 ## What has to change for your company
 
-Decide who prepares the brief for the executive and which records it may draw on, and who approves a record before it is used. Name who owns each kind of record, so a disagreement between two of them reaches the right person. Set how old a stated position may be before it is marked as old, and how many history entries, statements and choices the brief holds. Map your decision log's column headings to the defaults, or keep them; a log kept with the [decision log](https://fullypowered.ai/workflows/decision-log/) workflow template exports in the expected shape. Name your advisers. Decide whether the brief ever goes beyond the executive. It runs in ChatGPT, Claude, Copilot or Gemini, from the records you paste or attach.
+Decide who prepares the brief for the executive and which records it may draw on, and who approves a record before it is used. Name who owns each kind of record, so a disagreement between two of them reaches the right person. Set how old a stated position may be before it is marked as old, and how many history entries, statements and choices the brief holds. Map your decision log's column headings to the defaults, or keep them; a log kept with the [decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-executive-situation-brief&from=gh-leadership-executive-situation-brief) workflow template exports in the expected shape. Name your advisers. Decide whether the brief ever goes beyond the executive. It runs in ChatGPT, Claude, Copilot or Gemini, from the records you paste or attach.
 
 ## What has been checked
 
 FullyPowered AI wrote this workflow template, drawing on a published open-source idea credited in its sources. It was editorially reviewed on 10 November 2026. It was tried once on its invented example on 10 November 2026 in Claude; the record of that run is published with it. Several edits made to the instructions after the run, mostly clarifications of rules the run left loose, have not been run again; the record lists them. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past conversations whose records and outcomes the executive remembers well, plus hard cases written in advance: a decision log whose headings do not match, two records that disagree, a record marked draft, a request to describe how to handle a person, and a partner's own reading of the terms. The person who prepares the brief checks every line against the record it names before the executive relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets up those cases, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past conversations whose records and outcomes the executive remembers well, plus hard cases written in advance: a decision log whose headings do not match, two records that disagree, a record marked draft, a request to describe how to handle a person, and a partner's own reading of the terms. The person who prepares the brief checks every line against the record it names before the executive relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-executive-situation-brief&from=gh-leadership-executive-situation-brief) sets up those cases, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-executive-situation-brief&from=gh-leadership-executive-situation-brief) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -91,10 +98,10 @@ Testing in your environment means running it on two or three past conversations 
 
 ## Related workflow templates
 
-- [Decision log](https://fullypowered.ai/workflows/decision-log/)
-- [Board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/)
-- [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/)
+- [Decision log](https://fullypowered.ai/workflows/decision-log/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-executive-situation-brief&from=gh-leadership-executive-situation-brief)
+- [Board meeting pack](https://fullypowered.ai/workflows/board-meeting-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-executive-situation-brief&from=gh-leadership-executive-situation-brief)
+- [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-executive-situation-brief&from=gh-leadership-executive-situation-brief)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-executive-situation-brief&from=gh-leadership-executive-situation-brief).

@@ -1,10 +1,17 @@
 # Business model assumptions review
 
-Before you commit money to a new or revised business model, see it block by block with every claim marked evidenced or assumed, the riskiest assumptions ranked, and the cheapest test for each. You choose what to test; no projection or valuation is made.
+See a model block by block with each claim marked evidenced or assumed, the riskiest ranked and the cheapest test named. You choose what to test.
 
-*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/business-model-assumptions-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Business model assumptions review on our website](https://fullypowered.ai/workflows/business-model-assumptions-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/business-model-assumptions-review/?from=gh-business-model-assumptions-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/business-model-assumptions-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review)*
 
 ## The outcome
 
@@ -36,15 +43,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Leadership](https://fullypowered.ai/functions/leadership/), for owners and sponsors deciding where to put the next dollar.
-- [Product management](https://fullypowered.ai/functions/product-management/), when a product or price structure is changing and the team needs to know which parts are still guesses.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), when a firm is turning custom work into a packaged or recurring service.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), when a new product or pricing model is about to be built on assumptions about buyers.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), when a store adds a subscription, a new channel or a new customer group.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), when a brand tests a new product line or a new way to sell.
-- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), where almost everything in the model is still an assumption.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/), before a team is moved onto the new line.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when a model that worked at one size is stretched to another.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review), for owners and sponsors deciding where to put the next dollar.
+- [Product management](https://fullypowered.ai/functions/product-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review), when a product or price structure is changing and the team needs to know which parts are still guesses.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review), when a firm is turning custom work into a packaged or recurring service.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review), when a new product or pricing model is about to be built on assumptions about buyers.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review), when a store adds a subscription, a new channel or a new customer group.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review), when a brand tests a new product line or a new way to sell.
+- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review), where almost everything in the model is still an assumption.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review), before a team is moved onto the new line.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review), when a model that worked at one size is stretched to another.
 
 ## What has to change for your company
 
@@ -54,7 +61,7 @@ Decide who sponsors: the person who decides where the money goes. Keep or change
 
 FullyPowered AI wrote this workflow template, drawing on a published open-source package credited in its sources. It was editorially reviewed on 10 November 2026. It was tried twice on its invented example in Claude on 10 November 2026, the second time after the instructions were revised, and the record of the second run is published with the template. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a model you already know the outcome of, with the claims written as they stood at the time, plus hard cases written in advance: a block with no claims, a rating outside the scale, evidence with no date, a claim that says "customers love it" with no kind. The sponsor checks the ranking against the ratings before relying on it. [Offer review](https://fullypowered.ai/workflows/offer-review/) takes the offer block further, and [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/) is the next step once the sponsor has chosen what to commit to.
+Testing in your environment means running it on a model you already know the outcome of, with the claims written as they stood at the time, plus hard cases written in advance: a block with no claims, a rating outside the scale, evidence with no date, a claim that says "customers love it" with no kind. The sponsor checks the ranking against the ratings before relying on it. [Offer review](https://fullypowered.ai/workflows/offer-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review) takes the offer block further, and [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review) is the next step once the sponsor has chosen what to commit to.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -81,10 +88,10 @@ Testing in your environment means running it on a model you already know the out
 
 ## Related workflow templates
 
-- [Offer review](https://fullypowered.ai/workflows/offer-review/)
-- [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/)
-- [Workflow fit check: is this piece of work ready for AI?](https://fullypowered.ai/workflows/workflow-fit-check/)
+- [Offer review](https://fullypowered.ai/workflows/offer-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review)
+- [Premortem before a decision](https://fullypowered.ai/workflows/premortem-before-a-decision/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review)
+- [Workflow fit check: is this piece of work ready for AI?](https://fullypowered.ai/workflows/workflow-fit-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=leadership-business-model-assumptions-review&from=gh-business-model-assumptions-review).
