@@ -1,6 +1,6 @@
 # AI workflow templates for owners, CEOs and leadership teams
 
-FullyPowered Workflow Templates for owners and leadership teams turn the AI your company already pays for into a team that knows how the work is done: an owner with the Monday business brief built from their own exports, a chief executive with every team goal mapped to the company priority it serves, an executive with one brief ready before a conversation that matters. 6 workflow templates, made to be customized and deployed. All plain Markdown, all free, MIT license.
+FullyPowered Workflow Templates for owners and leadership teams turn the AI your company already pays for into a team that knows how the work is done: an owner with the Monday business brief built from their own exports, a chief executive with every team goal mapped to the company priority it serves, an executive with one brief ready before a conversation that matters. 7 workflow templates, made to be customized and deployed. All plain Markdown, all free, MIT license.
 
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
@@ -61,6 +61,7 @@ These are examples and a starting point, made to be changed to fit how your comp
 
 ## The workflow templates here today
 
+- **[AI opportunity scorecard](ai-opportunity-scorecard/)**: Put every idea for work AI could prepare through five checks the room can answer before anything is built: how often it happens, where it sticks, whether its records are ready, who checks it and how much there is to set up. Each gets a total out of 15, an unknown stays unknown, and the leadership team chooses.
 - **[Business line investment review](business-line-investment-review/)**: For leadership with several business lines: each line set side by side on one basis (fit with strategy, finance-reviewed results, shared resources, open questions) and placed as invest, investigate or reduce commitment, for the leadership team to discuss and decide.
 - **[Business model assumptions review](business-model-assumptions-review/)**: Before you commit money to a new or revised business model, see it block by block with every claim marked evidenced or assumed, the riskiest assumptions ranked, and the cheapest test for each. You choose what to test; no projection or valuation is made.
 - **[Executive situation brief](executive-situation-brief/)**: Before a conversation that matters, with a key partner, a major customer or a co-founder, the executive gets one brief from the records they approve: the short version in a sentence, what is already decided and promised, what each side has said, the question to settle and the choices open. The executive decides.

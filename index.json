@@ -4,6 +4,14 @@
   "term": "functions/leadership",
   "templates": [
     {
+      "id": "ai-opportunity-scorecard",
+      "name": "AI opportunity scorecard",
+      "version": "0.1.0",
+      "summary": "Put every idea for work AI could prepare through five checks the room can answer before anything is built: how often it happens, where it sticks, whether its records are ready, who checks it and how much there is to set up. Each gets a total out of 15, an unknown stays unknown, and the leadership team chooses.",
+      "path": "ai-opportunity-scorecard/",
+      "directory": "https://fullypowered.ai/workflows/ai-opportunity-scorecard/"
+    },
+    {
       "id": "business-line-investment-review",
       "name": "Business line investment review",
       "version": "0.1.0",

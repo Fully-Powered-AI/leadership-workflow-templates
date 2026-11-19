@@ -1,0 +1,47 @@
+{
+  "id": "ai-opportunity-scorecard",
+  "name": "AI opportunity scorecard",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Put every idea for work AI could prepare through five checks the room can answer before anything is built: how often it happens, where it sticks, whether its records are ready, who checks it and how much there is to set up. Each gets a total out of 15, an unknown stays unknown, and the leadership team chooses.",
+  "directory": "https://fullypowered.ai/workflows/ai-opportunity-scorecard/",
+  "primary_function": "functions/leadership",
+  "functions": [
+    "functions/leadership",
+    "functions/operations-and-process-improvement"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/construction",
+    "industries/manufacturing",
+    "industries/logistics-and-trade"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "workflow-inventory",
+    "workflow-fit-check"
+  ],
+  "evidence": {
+    "written_by": "FullyPowered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-19",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-19",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "FullyPowered AI's own published scoring method for choosing first AI wins."
+    }
+  ]
+}
