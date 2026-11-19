@@ -4,6 +4,8 @@ For leadership with several business lines: each line set side by side on one ba
 
 *Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/business-line-investment-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/business-line-investment-review/?from=gh-business-line-investment-review)
+
 ## The outcome
 
 Leadership walks into the portfolio discussion with every line described the same way. Each line has the same blocks: how it fits the company's stated priorities, what it recorded in the same two periods, what it shares with the other lines, what its owner says, and what is still unanswered. Nobody argues from the line they know best.

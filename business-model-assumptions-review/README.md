@@ -4,6 +4,8 @@ Before you commit money to a new or revised business model, see it block by bloc
 
 *Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/business-model-assumptions-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/business-model-assumptions-review/?from=gh-business-model-assumptions-review)
+
 ## The outcome
 
 The sponsor sees the whole model on one page and can tell, claim by claim, what is known and what is hoped. The page lays out six blocks (customers, offer, channels, revenue, costs and partners), counts how much of each is backed by something that happened, and ranks the assumptions by how badly the model suffers if they are wrong and how unsure the sponsor is. For the riskiest few it names the cheapest way to find out.

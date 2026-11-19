@@ -4,6 +4,8 @@ Before next period's goals are set, the chief executive sees every team goal map
 
 *Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/goal-alignment-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/goal-alignment-review/?from=gh-leadership-goal-alignment-review)
+
 ## The outcome
 
 The leadership session starts from one map instead of a stack of team plans. Every team goal sits under the company priority it claims, and each link is marked direct, when the goal moves the priority's own measure, or indirect, when the owner still has to show how it does.

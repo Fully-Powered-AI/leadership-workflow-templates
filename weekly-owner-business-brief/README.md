@@ -4,6 +4,8 @@ Each Monday the owner gets about one page built from the exports they supply: ca
 
 *Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/weekly-owner-business-brief/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/weekly-owner-business-brief/?from=gh-weekly-owner-business-brief)
+
 ## The outcome
 
 The owner starts the week knowing where the business stands before the first call comes in. Cash, sales, the pipeline and the diary sit on one page in the same order every week, each figure beside the week before it, so a change is easy to see.

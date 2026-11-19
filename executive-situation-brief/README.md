@@ -4,6 +4,8 @@ Before a conversation that matters, with a key partner, a major customer or a co
 
 *Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/executive-situation-brief/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/executive-situation-brief/?from=gh-leadership-executive-situation-brief)
+
 ## The outcome
 
 You walk into the conversation holding the whole record, not your memory of it. One sentence tells you where things stand. Below it: how you got here, every decision already taken and every promise either side made, with whether it was kept, and what the other side has said in its own words, dated, so you can see which positions are fresh and which are months old.

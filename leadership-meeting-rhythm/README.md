@@ -4,6 +4,8 @@ Your chief executive gets a proposed calendar of leadership forums and written r
 
 *Workflow template · Leadership · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/leadership-meeting-rhythm/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/leadership-meeting-rhythm/?from=gh-leadership-leadership-meeting-rhythm)
+
 ## The outcome
 
 The week stops being a run of meetings that each end with "let's pick this up next time". Every recurring meeting the leadership sits in is looked at on its own figures: how often it meets, who is in the room, who owns its decisions, how many decisions it actually recorded, and whether anyone read anything before it started. Each one gets a single proposal. Keep it, sharpen it, fold it into a meeting that already covers the same ground, or let a short written report do its job.
